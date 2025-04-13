@@ -1,5 +1,5 @@
 {
-  "name": "Email Writer Assistant",
+  "name": "e-replybot",
   "description": "AI-powered email reply generator",
   "version": "1.0",
   "manifest_version": 3,
@@ -20,7 +20,7 @@
     }
   ],
   "action": {
-    "default_title": "Email Writer Assistant",
+    "default_title": "E-Replybot",
     "default_icon": "logo.png"
   }
 }

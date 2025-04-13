@@ -1,5 +1,5 @@
-console.log("Email Writer extension- content script loaded");
 
+console.log("Email Writer extension- content script loaded");
 
 function getEmailContent() {
     const selectors = ['.h7', '.a3s.aiL', '.gmail_quote', '[role="presentation"]'];
