@@ -52,7 +52,7 @@ Automatically generate email replies tailored to your tone (professional, friend
 ### **Run Locally**  
 1. **Clone the repo**:  
    ```bash  
-   git clone https://github.com/yourusername/e-replybot.git
+   git clone https://github.com/SanT-at-dev/e-replybot.git
 
 2. **Backend**:
    ```bash  
